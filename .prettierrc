@@ -1,0 +1,16 @@
+{
+  "arrowParens": "avoid",
+  "tabWidth": 2,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "sort-imports": [
+    "error",
+    {
+      "ignoreCase": false,
+      "ignoreDeclarationSort": false,
+      "ignoreMemberSort": false,
+      "memberSyntaxSortOrder": ["none", "all", "multiple", "single"],
+      "allowSeparatedGroups": false
+    }
+  ]
+}
